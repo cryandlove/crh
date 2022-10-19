@@ -8,7 +8,7 @@ $("#login-button").click(function (event) {
     $("form").fadeOut(500);
     $(".wrapper").addClass("form-success");
     setTimeout(function () {
-      location.href = "第二页\page2.html";
+      location.href = "https://cryandlove.github.io/crh1/";
     }, 2000);
   } else {
     alert("Wrong Password");
